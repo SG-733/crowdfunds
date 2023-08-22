@@ -9,7 +9,7 @@
   <p align="center">
     Web3 Crowdfunding Platform
     <br />
-    <a href="https://github.com/SG-733/crowdfunds/tree/master/programs/solana-crowdfunding"><strong>Explore the solana prgram</strong></a>
+    </a>
     <br />
     <br />
     <a href="https://fundzkickstarter.vercel.app/">View Demo</a>
