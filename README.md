@@ -67,22 +67,6 @@ In the DEVNET environment, use the app to create your own crowd funding project,
 where you can set a goal and people can donate SOL to the project, which you can
 then withdraw to your own wallet.
 
-### Steps
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-- Connect your wallet
-  [![Connect Wallet][connect-wallet]](https://fundzkickstarter.vercel.app/)
-
-- Create your project
-  [![Create Project][create-project]](https://fundzkickstarter.vercel.app/create)
-
-- Fund a project
-  [![Fund Project][fund-project]](https://fundzkickstarter.vercel.app/project?key=BTrespkCHNU2FkErRZSpZSqk1Lt8HZDgXZqJFPc88Vz5)
-
-- Withdraw the SOL
-  [![Withdraw SOL][withdraw-sol]](https://fundzkickstarter.vercel.app/profile)
-
 <!-- CONTACT -->
 
 ## Contact
