@@ -18,18 +18,7 @@
   </p>
 </div>
 
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
-
-[![Product Name Screen Shot][homepage]](https://fundzkickstarter.vercel.app/)
-
-This app is built on top of Solana Blockchain to showcase my skills in the web3
-world. 🌏
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Getting Started
 
 ### Prerequisites
 
@@ -102,20 +91,3 @@ Sarthak G - sg733@icloud.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- MARKDOWN LINKS & IMAGES -->
-
-[homepage]: images/homepage.png
-[connect-wallet]: images/connect-wallet.png
-[create-project]: images/create-project.png
-[fund-project]: images/fund-project.png
-[withdraw-sol]: images/withdraw-sol.png
-[next.js]:
-	https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[next-url]: https://nextjs.org/
-[phantom-url]: https://phantom.app/
-[tailwind]:
-	https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-[tailwind-url]: https://tailwindcss.com/
-[rust]:
-	https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white
-[rust-url]: https://www.rust-lang.org/
